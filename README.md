@@ -5,3 +5,5 @@ This Project has two eyes which follows the mouse movement. Both the eyes are sy
 This Project can be further enhanced by opening and closing the eyes based mouse click.
 
 License Information
+MIT License
+
